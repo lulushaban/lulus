@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>about</title></head>
+<body>
+<h2>ABOUT MY LIFE</h2>
+<p>A girl with a special heart,so loving,kind and caring others.Student at UDSM  taking BSC in Comp science</p>
+
+<h3>Here are my favourite sites</h3>
+<p><strong>Click to visit</strong></p>
+<p><a href="udsm.co.tz">udsm</a></p>
+<p><a href="twitter.co">twitter</a></p>
+<p><a href="facebook.com">facebook</a></p>
+<p><a href="instagram.com">instagram</a></p>
+<p><a href="heading.html">heading</a></p>
+<p><img src="20200126_162909.jpg" width="92" height="120" alt="kkk"></p>
+<a href="mailto:luluyshabani@gmail.com">email address to visit</a></p>
+
+</body>
+</html>
